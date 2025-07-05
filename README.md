@@ -3,6 +3,7 @@ Een vrolijke en volledig interactieve Bingo Web App gebouwd in PHP. Perfect voor
 De webapplicatie genereert een persoonlijke bingo-kaart en laat je live bingo-nummers trekken – met of zonder afbeeldingen.
 
 ✨ Functionaliteit
+
 ✅ Genereert automatisch één gepersonaliseerde J❤️RIS-bingokaart per gebruiker
 
 ✅ Bingo-kaart heeft de kolommen: J, O, R, I, S (zoals BINGO, maar dan leuker 😄)
