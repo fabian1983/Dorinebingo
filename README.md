@@ -1,13 +1,9 @@
 # 🎉 Dorine's J❤️ris Bingo Molen 🎲
 
 Welkom bij **Dorine's J❤️ris Bingo Molen** 
-– een interactieve webapp om ouderwets bingo te spelen, speciaal met een J❤️ris-thema!
-Deze PHP-app genereert een bingo-kaart, laat willekeurig getrokken nummers zien, en ondersteunt zowel tekst als afbeeldingen per nummer.
-
----
-
-## ✨ Features
-
+– Een interactieve webapp om ouderwets bingo te spelen, speciaal met een J❤️ris-thema!
+– Deze PHP-app genereert een bingo-kaart, laat willekeurig getrokken nummers zien.
+– Ondersteunt zowel tekst als afbeeldingen per nummer.
 - 🎫 Willekeurige bingo-kaarten volgens het J-O-R-I-S schema (B-I-N-G-O, maar anders 😉)
 - 🎲 Trek willekeurig nummers (1 t/m 75)
 - 🖼️ Ondersteuning voor afbeeldingen (optioneel)
