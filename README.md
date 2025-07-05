@@ -1,5 +1,6 @@
 🎉 Dorine's J❤️ris Bingo Molen
-Een vrolijke en volledig interactieve Bingo Web App gebouwd in PHP. Perfect voor zorginstellingen, verjaardagen of familiefeesten! De webapplicatie genereert een persoonlijke bingo-kaart en laat je live bingo-nummers trekken – met of zonder afbeeldingen.
+Een vrolijke en volledig interactieve Bingo Web App gebouwd in PHP. Perfect voor zorginstellingen, verjaardagen of familiefeesten! 
+De webapplicatie genereert een persoonlijke bingo-kaart en laat je live bingo-nummers trekken – met of zonder afbeeldingen.
 
 ✨ Functionaliteit
 ✅ Genereert automatisch één gepersonaliseerde J❤️RIS-bingokaart per gebruiker
